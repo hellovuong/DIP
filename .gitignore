@@ -1,0 +1,7 @@
+.idea
+cmake-build-debug
+build
+res/*
+Assigment/lab1_main
+Assigment/lab3_main
+Assigment/lab2_main
