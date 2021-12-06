@@ -1,7 +1,10 @@
 .idea
 cmake-build-debug
 build
-res/*
+res/lab1/*.png
+res/lab2/*.png
+res/lab3/*.png
+res/lab3/python/*
 Assigment/lab1_main
 Assigment/lab3_main
 Assigment/lab2_main
